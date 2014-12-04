@@ -16,7 +16,7 @@ Installation
 About the Scripts
 -----------------
 
-* Safari/Open Page With Google Chrome.js
+* [Safari/Open Page With Google Chrome.js](Applications/Safari/Open Page With Google Chrome.js)
     * A better version of Safari's `Develop → Open Page With → Google Chrome.app (…)` menu-item.
     * You can assign a shortcut key in FastScripts. This isn't possible with
       Safari's built-in menu-item, as the text includes the version number
