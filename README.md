@@ -16,7 +16,10 @@ Installation
 About the Scripts
 -----------------
 
-* [Safari/Open Page With Google Chrome.js](Applications/Safari/Open Page With Google Chrome.js)
+* [Mail/Deselect All](Applications/Mail/Deselect%20All.applescript)
+    * Deselects all messages and mailboxes in your current message viewer.
+
+* [Safari/Open Page With Google Chrome](Applications/Safari/Open%20Page%20With%20Google%20Chrome.js)
     * A better version of Safari's `Develop → Open Page With → Google Chrome.app (…)` menu-item.
     * You can assign a shortcut key in FastScripts. This isn't possible with
       Safari's built-in menu-item, as the text includes the version number
