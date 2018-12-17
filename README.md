@@ -28,6 +28,9 @@ About the Scripts
     * If the URL is already open in Chrome, then it activates that tab and
       reloads the page.
 
+* [Safari/New Tab](Applications/Safari/New%20Tab.applescript)
+    * Better `New Tab` functionality, via [Daring Fireball & Jeff Johnson](https://daringfireball.net/2018/12/safari_new_tab_next_to_current_tab)
+
 License
 -------
 
